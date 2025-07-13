@@ -16,65 +16,64 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 ### Personal Information
 
-- **Name:**
-- **Date:**
-- **Current Role/Position:**
-- **Field of Interest:**
+- **Name:** Santesh Rajkumar
+- **Date:** 13 July 2025
+- **Current Role/Position:** Store Assistant
+- **Field of Interest:** Software Development
 
 ### Part 1: Self-Assessment Reflection
 
 1. **Skills Analysis**:
     
-    - List your current skills and areas of expertise.
-    - Identify skills you need to develop or improve.
+    - Diesel Mechanics & Logistics
+    - Improve Coding Skills
 2. **Interests and Values**:
     
-    - Describe your key interests related to your career.
-    - What values are important to you in a work environment?
+    - I would like to run automated online store
+    - Integrity
 
 ### Part 2: Career Exploration Insights
 
 1. **Industries and Roles Explored**:
     
-    - List the industries or roles you have researched.
-    - Note any particular areas that piqued your interest.
+    - Diesel Mechanics & Logistics
+    - The Tech revolution
 2. **Alignment with Personal Profile**:
     
-    - Reflect on how these industries/roles align with your skills, interests, and values.
-    - Identify any gaps or areas for further exploration.
+    - My interests is exploring nature and travel. I am keen on working remotely
+    - I want to expand on my coding skills
 
 ### Part 3: SMART Career Goals
 
 1. **Short-term Goals** (Next 1-2 years):
     
-    - List your specific, measurable, achievable, relevant, and time-bound goals.
-    - Explain the rationale behind each goal.
+    - I want to complete my course and study for another year to gain the required skills to work remotely or as a Digital Nomad
+    - I want to seek greener pastures and have a change of enviroment
 2. **Long-term Goals** (3-5 years and beyond):
     
-    - Outline your long-term career aspirations.
-    - Describe how these align with your interests and skills.
-
+    - To have steady income for adventure and travel
+    - I am gaining skills through this course that will give me the skill and opportunity to fulfill my aspiration for travelling and working remotely
 ### Part 4: Action Plan
 
 1. **Steps to Achieve Short-term Goals**:
     
-    - Detail specific actions or steps needed to achieve each short-term goal.
-    - Include any resources or support required.
+    - Specific action require is better time management for studying and creating and extra stream of income to cover cost for studies and emergencies
+    - The most important resource right now is financial and study support in the means of mentorship
 2. **Preparation for Long-term Goals**:
     
-    - Describe the preparations or groundwork necessary for your long-term aspirations.
-    - Consider additional skills, experiences, or qualifications needed.
+    - To keep strict financial management because that is the major challenge. To create prudent reserves to avoid future emergencies. This will help avoid any delays and interruptions with my studies.
+    - Consider additional skills, experiences, or qualifications needed. Financial education and knowledge. Spending plan and budgeting apps.
 
 ### Part 5: Reflection on Challenges and Opportunities
 
 1. **Anticipated Challenges**:
     
-    - Identify potential obstacles or challenges in reaching your goals.
-    - Consider strategies to overcome these challenges.
+    - Identify potential obstacles or challenges in reaching your goals. Parents old age issues
+    - Consider strategies to overcome these challenges. Ask for support guidance and assistance
 2. **Opportunities for Growth**:
     
-    - Highlight any opportunities you can leverage for career growth.
-    - Include networking, mentorship, or educational opportunities.
+    - Highlight any opportunities you can leverage for career growth. I would like to pass on the Codespace culture which really motivates. Volunteering and working with Coding to enhance and strenghten my skills and experience. Look for mentorship and community. 
+    - Include networking, mentorship, or educational opportunities. To be able to continue studying coding and software development will be a dream true. 
 
 ### Submission
 
